@@ -1,5 +1,5 @@
 # Html-Contact-form
-This is an example of a webpage contact from using html css &amp; php, also send form  contents via email.</br>
+This is an example of a webpage contact form using html, css and php, also send form  contents via email.</br>
 The page work on both mobile web browser & desktop.
 </br>
 </br>
